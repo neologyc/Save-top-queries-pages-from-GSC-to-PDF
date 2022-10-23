@@ -10,8 +10,9 @@ PDF se výrazně rychleji prochází a během pár kliků na šipku vpravo na kl
 * když chci analyzovat, co se děje po větší změně ve vyhledávačích v detailním pohledu 
 
 ### Instalace
-Stáhněte si tento projekt do svého RStudio repozitáře.
-Spusťte Top100.Rproj - například dvojklikem
+* Stáhněte si tento projekt do svého RStudio repozitáře.
+* Spusťte Top100.Rproj - například dvojklikem
+* Pokud se vám nevytvořila složka /exports/, tak si ji v projektu vytvořte
 
 ### Jak to používat?
 * V projektu jsou 2 hlavní soubory 
