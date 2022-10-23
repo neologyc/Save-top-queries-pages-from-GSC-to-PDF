@@ -12,7 +12,7 @@ PDF se výrazně rychleji prochází a během pár kliků na šipku vpravo na kl
 ### Instalace
 * Stáhněte si tento projekt do svého RStudio repozitáře - ZIP se dá stáhnout kliknutím na zelené tlačítka "CODE" vpravo nahoře na stránce githubu.
 * Spusťte Top100.Rproj - například dvojklikem
-* Pokud se vám nevytvořila složka /exports/, tak si ji v projektu vytvořte
+* Pokud se vám náhodou nevytvořila složka /exports/ (stát by se to nemělo), tak si ji v projektu vytvořte
 
 ### Jak to používat?
 * V projektu jsou 2 hlavní soubory 
